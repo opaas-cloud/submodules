@@ -2,3 +2,7 @@
 	path = OCA/web
 	url = https://github.com/OCA/web.git
 	branch = 16.0
+[submodule "OCA/maintenance"]
+	path = OCA/maintenance
+	url = https://github.com/OCA/maintenance.git
+	branch = 16.0
